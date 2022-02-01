@@ -13,6 +13,7 @@
 
 ### Technologies used:
 - GitBash
+- Python
 - Jupyter-lab (alpaca environment)
 - API (Alpaca)
 - VS Code
