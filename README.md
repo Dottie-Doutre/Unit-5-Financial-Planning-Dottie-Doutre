@@ -5,7 +5,7 @@
 
 ### Assignment Summary:
 - Started a FinTech consultancy firm and I have obtained a project through my first stakeholder - a credit union.
-- First project is to develop a tool in helping their customers enchance their financial health.
+- First project is to develop tools to help their customers enchance their financial health.
 - Generate a personal finance planner.
 - Generate a savings health analysis.
 - Generate a retirement planner including optional analysis for different investment time periods.
