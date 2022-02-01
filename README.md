@@ -21,12 +21,12 @@
 
 > Pie chart of savings composition
 
-![image_add](image_1.png)
+![image_add](https://github.com/Dottie-Doutre/Unit-5-Financial-Planning-Dottie-Doutre/blob/main/images/image_1.PNG?raw=true)
 
 > Line plot of 500 simulation of cumulative portfolio return
 
-![image_add](image_2.png)
+![image_add](https://github.com/Dottie-Doutre/Unit-5-Financial-Planning-Dottie-Doutre/blob/main/images/image_2.PNG?raw=true)
 
 > Distribution plot of cumulative returns on all 500 simulations
 
-![image_add](image_3.png)
+![image_add](https://github.com/Dottie-Doutre/Unit-5-Financial-Planning-Dottie-Doutre/blob/main/images/image_3.PNG?raw=true)
