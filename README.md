@@ -18,7 +18,7 @@
 - API (Alpaca)
 - VS Code
 
-### Screenshots of some the findings for the assignment:
+### Example screenshots within assignment:
 
 > Pie chart of savings composition
 
